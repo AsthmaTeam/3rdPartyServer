@@ -1,1 +1,3 @@
-{userid}:{authtoken}
+connect
+  {userid}:{authtoken}:{license}:{guildid}
+auth
